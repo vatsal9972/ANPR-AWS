@@ -124,6 +124,8 @@ python kvs_consumer_library_example_object_detection_and_tracking.py
 ```
 ### 2: visualization
 
-
-
+- Clone this repository https://github.com/vatsal9972/ANPR-AWS
+- Download the files main_plot.py and process_queue.py.
+- Download the directory loading_frames.
+- Go to IAM and create a new user with AmazonKinesisVideoStreamsFullAccess, AmazonDynamoDBFullAccess and AmazonSQSFullAccess permissions.
 
